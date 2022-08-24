@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\bin\Debug\systemdesign.exe.config
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\bin\Debug\systemdesign.exe
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\bin\Debug\systemdesign.pdb
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\obj\Debug\systemdesign.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\obj\Debug\systemdesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\obj\Debug\systemdesign.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\obj\Debug\systemdesign.exe
+C:\Users\User\Documents\2ci kurs\c#\systemdesign\systemdesign\obj\Debug\systemdesign.pdb

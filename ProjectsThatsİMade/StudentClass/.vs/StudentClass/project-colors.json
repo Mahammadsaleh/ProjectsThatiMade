@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de59e3f9-0b8f-41dc-940a-5a8d2d981ef9": {
+      "ProjectGuid": "de59e3f9-0b8f-41dc-940a-5a8d2d981ef9",
+      "DisplayName": "StudentClass",
+      "ColorIndex": 0
+    },
+    "53bf5ea3-b083-4e42-89d8-5270a0178297": {
+      "ProjectGuid": "53bf5ea3-b083-4e42-89d8-5270a0178297",
+      "DisplayName": "Conus",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

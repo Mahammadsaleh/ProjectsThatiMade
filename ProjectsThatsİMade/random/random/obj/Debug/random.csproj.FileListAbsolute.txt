@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\random\random\bin\Debug\random.exe.config
+C:\Users\User\Documents\2ci kurs\c#\random\random\bin\Debug\random.exe
+C:\Users\User\Documents\2ci kurs\c#\random\random\bin\Debug\random.pdb
+C:\Users\User\Documents\2ci kurs\c#\random\random\obj\Debug\random.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\random\random\obj\Debug\random.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\random\random\obj\Debug\random.exe
+C:\Users\User\Documents\2ci kurs\c#\random\random\obj\Debug\random.pdb

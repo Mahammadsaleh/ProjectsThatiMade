@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\List\List\bin\Debug\List.exe.config
+C:\Users\User\Documents\2ci kurs\c#\List\List\bin\Debug\List.exe
+C:\Users\User\Documents\2ci kurs\c#\List\List\bin\Debug\List.pdb
+C:\Users\User\Documents\2ci kurs\c#\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\List\List\obj\Debug\List.exe
+C:\Users\User\Documents\2ci kurs\c#\List\List\obj\Debug\List.pdb

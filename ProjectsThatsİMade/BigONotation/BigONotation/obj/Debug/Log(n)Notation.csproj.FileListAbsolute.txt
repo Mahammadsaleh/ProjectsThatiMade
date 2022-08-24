@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\bin\Debug\BigONotation.exe.config
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\bin\Debug\BigONotation.exe
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\bin\Debug\BigONotation.pdb
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\obj\Debug\Log(n)Notation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\obj\Debug\Log(n)Notation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\obj\Debug\Log(n)Notation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\obj\Debug\BigONotation.exe
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\BigONotation\obj\Debug\BigONotation.pdb

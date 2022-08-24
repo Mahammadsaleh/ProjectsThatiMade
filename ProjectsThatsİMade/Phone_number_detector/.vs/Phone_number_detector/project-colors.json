@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a56d456-e257-474e-8d73-aff547ca9146": {
+      "ProjectGuid": "8a56d456-e257-474e-8d73-aff547ca9146",
+      "DisplayName": "Phone_number_detector",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

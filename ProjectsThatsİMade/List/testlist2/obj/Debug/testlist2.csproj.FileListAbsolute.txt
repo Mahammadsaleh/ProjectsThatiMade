@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\bin\Debug\testlist2.exe.config
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\bin\Debug\testlist2.exe
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\bin\Debug\testlist2.pdb
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\obj\Debug\testlist2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\obj\Debug\testlist2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\obj\Debug\testlist2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\obj\Debug\testlist2.exe
+C:\Users\User\Documents\2ci kurs\c#\List\testlist2\obj\Debug\testlist2.pdb

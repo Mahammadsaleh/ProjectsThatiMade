@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database_Company" Class="DataClasses2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database_Company.mdf;Integrated Security=True" SettingsObjectName="company_db.Properties.Settings" SettingsPropertyName="Database_CompanyConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.employeesvwtable" Member="employeesvwtables">
+    <Type Name="employeesvwtable">
+      <Column Name="employee_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="employee_wages" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

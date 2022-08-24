@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\bin\Debug\Conus.exe.config
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\bin\Debug\Conus.exe
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\bin\Debug\Conus.pdb
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\obj\Debug\Conus.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\obj\Debug\Conus.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\obj\Debug\Conus.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\obj\Debug\Conus.exe
+C:\Users\User\Documents\2ci kurs\c#\StudentClass\Conus\obj\Debug\Conus.pdb

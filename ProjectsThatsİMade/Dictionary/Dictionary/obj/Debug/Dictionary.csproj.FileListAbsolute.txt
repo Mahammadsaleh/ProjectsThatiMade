@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\User\Documents\2ci kurs\c#\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

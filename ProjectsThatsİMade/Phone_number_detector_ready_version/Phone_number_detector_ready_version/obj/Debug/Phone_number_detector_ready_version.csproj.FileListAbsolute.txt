@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\bin\Debug\Phone_number_detector_ready_version.exe.config
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\bin\Debug\Phone_number_detector_ready_version.exe
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\bin\Debug\Phone_number_detector_ready_version.pdb
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\obj\Debug\Phone_number_detector_ready_version.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\obj\Debug\Phone_number_detector_ready_version.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\obj\Debug\Phone_number_detector_ready_version.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\obj\Debug\Phone_number_detector_ready_version.exe
+C:\Users\User\Documents\2ci kurs\c#\Phone_number_detector_ready_version\Phone_number_detector_ready_version\obj\Debug\Phone_number_detector_ready_version.pdb

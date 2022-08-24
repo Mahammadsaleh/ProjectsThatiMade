@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\classlar\classlar\obj\Debug\netcoreapp3.1\classlar.csprojAssemblyReference.cache
+C:\Users\User\source\repos\classlar\classlar\obj\Debug\netcoreapp3.1\classlar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\classlar\classlar\obj\Debug\netcoreapp3.1\classlar.AssemblyInfo.cs
+C:\Users\User\source\repos\classlar\classlar\obj\Debug\netcoreapp3.1\classlar.csproj.CoreCompileInputs.cache

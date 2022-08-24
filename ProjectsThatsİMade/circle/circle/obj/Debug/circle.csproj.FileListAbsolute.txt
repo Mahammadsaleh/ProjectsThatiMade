@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\bin\Debug\circle.exe.config
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\bin\Debug\circle.exe
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\bin\Debug\circle.pdb
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\obj\Debug\circle.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\obj\Debug\circle.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\obj\Debug\circle.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\obj\Debug\circle.exe
+C:\Users\User\Documents\2ci kurs\c#\circle\circle\obj\Debug\circle.pdb

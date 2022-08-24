@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\bin\Debug\nPowerTwoNotation.exe.config
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\bin\Debug\nPowerTwoNotation.exe
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\bin\Debug\nPowerTwoNotation.pdb
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\obj\Debug\nPowerTwoNotation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\obj\Debug\nPowerTwoNotation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\obj\Debug\nPowerTwoNotation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\obj\Debug\nPowerTwoNotation.exe
+C:\Users\User\Documents\2ci kurs\c#\BigONotation\nPowerTwoNotation\obj\Debug\nPowerTwoNotation.pdb

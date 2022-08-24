@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\bin\Debug\LocalFunc.exe.config
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\bin\Debug\LocalFunc.exe
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\bin\Debug\LocalFunc.pdb
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\obj\Debug\LocalFunc.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\obj\Debug\LocalFunc.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\obj\Debug\LocalFunc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\obj\Debug\LocalFunc.exe
+C:\Users\User\Documents\2ci kurs\c#\LocalFunc\LocalFunc\obj\Debug\LocalFunc.pdb

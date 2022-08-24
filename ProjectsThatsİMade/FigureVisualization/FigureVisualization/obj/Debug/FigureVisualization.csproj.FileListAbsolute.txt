@@ -1,0 +1,10 @@
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\bin\Debug\FigureVisualization.exe.config
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\bin\Debug\FigureVisualization.exe
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\bin\Debug\FigureVisualization.pdb
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.Form1.resources
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.csproj.GenerateResource.cache
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.exe
+C:\Users\User\Documents\2ci kurs\c#\FigureVisualization\FigureVisualization\obj\Debug\FigureVisualization.pdb

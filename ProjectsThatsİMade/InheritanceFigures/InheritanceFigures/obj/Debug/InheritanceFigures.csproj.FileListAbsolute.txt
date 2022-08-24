@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\bin\Debug\InheritanceFigures.exe.config
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\bin\Debug\InheritanceFigures.exe
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\bin\Debug\InheritanceFigures.pdb
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\obj\Debug\InheritanceFigures.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\obj\Debug\InheritanceFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\obj\Debug\InheritanceFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\obj\Debug\InheritanceFigures.exe
+C:\Users\User\Documents\2ci kurs\c#\InheritanceFigures\InheritanceFigures\obj\Debug\InheritanceFigures.pdb

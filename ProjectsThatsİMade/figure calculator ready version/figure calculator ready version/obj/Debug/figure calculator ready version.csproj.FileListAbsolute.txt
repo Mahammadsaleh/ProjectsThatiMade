@@ -1,0 +1,8 @@
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\bin\Debug\figure calculator ready version.exe.config
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\bin\Debug\figure calculator ready version.exe
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\bin\Debug\figure calculator ready version.pdb
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\obj\Debug\figure calculator ready version.csproj.AssemblyReference.cache
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\obj\Debug\figure calculator ready version.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\obj\Debug\figure calculator ready version.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\obj\Debug\figure calculator ready version.exe
+C:\Users\User\Documents\2ci kurs\c#\figure calculator ready version\figure calculator ready version\obj\Debug\figure calculator ready version.pdb

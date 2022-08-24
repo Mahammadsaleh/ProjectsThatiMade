@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b6a3bfd-d060-4649-b852-598a57138605": {
+      "ProjectGuid": "1b6a3bfd-d060-4649-b852-598a57138605",
+      "DisplayName": "LocalFunc",
+      "ColorIndex": 0
+    },
+    "08d198e9-cd26-4a84-926c-1a9ac820f776": {
+      "ProjectGuid": "08d198e9-cd26-4a84-926c-1a9ac820f776",
+      "DisplayName": "enum",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
